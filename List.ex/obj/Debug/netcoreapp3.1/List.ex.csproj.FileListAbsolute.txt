@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\bin\Debug\netcoreapp3.1\List.ex.exe
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\bin\Debug\netcoreapp3.1\List.ex.deps.json
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\bin\Debug\netcoreapp3.1\List.ex.runtimeconfig.json
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\bin\Debug\netcoreapp3.1\List.ex.runtimeconfig.dev.json
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\bin\Debug\netcoreapp3.1\List.ex.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\bin\Debug\netcoreapp3.1\List.ex.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\obj\Debug\netcoreapp3.1\List.ex.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\obj\Debug\netcoreapp3.1\List.ex.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\obj\Debug\netcoreapp3.1\List.ex.AssemblyInfo.cs
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\obj\Debug\netcoreapp3.1\List.ex.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\obj\Debug\netcoreapp3.1\List.ex.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\obj\Debug\netcoreapp3.1\List.ex.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\List.ex\obj\Debug\netcoreapp3.1\List.ex.genruntimeconfig.cache
