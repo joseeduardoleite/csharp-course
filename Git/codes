@@ -1,0 +1,56 @@
+git init: Iniciar um projeto
+
+Configuração do ambiente: 
+git config -g user.name "Seu nome"
+git config -g user.email "Seu email" (colocar o mesmo email do github)
+
+Salvar uma versão do projeto:
+commit
+
+Verificar como está o repositório
+git status
+em vermelho - Arquivos não rastreados (untracked)
+em verde - Arquivos prontos para serem "commitados" (stage)
+
+Colocar os arquivos em stage (prontos para serem commitados):
+git add .
+
+Realizar o commit:
+git commit -m "Descrição do commit"
+
+Verificar os commits:
+git log
+git log --oneline (apenas uma breve descrição dos commits)
+
+Caso esquecer de colocar uma msg no commit entrará no VIM, caso não queira utilizá-lo, cancelar o commit:
+tecla esc;
+Digitar o cmd - :q!
+
+Voltar ao último status do commit:
+git clean -df
+git checkout -- .
+
+Remover um commit específico mantendo as alterações: (fará com que o commit selecionado volte para stage)
+git reset --soft HEAD~1 (Verificar se o nmr corresponde ao commit que voce quer)
+Remover um commit específico incluindo as alterações feitas no arquivo:
+git reset --hard HEAD~1
+
+Ir para um commit específico para ver como estava: (isso alterará os arquivos, mas depois é só voltar para a master)
+git checkout "código do commit" (sem aspas)
+Aí para voltar pra master: git checkout "nome da branch"
+
+Associar repositório local ao repositório remoto, isso após criação de um repositório no GitHub:
+git remote add origin "URI do repositório remoto" (sem aspas)
+Associar repositório local a um outro repositório remoto, porém mantendo o mesmo apelido:
+git remote set-url origin "URI do repositório remoto" (sem aspas)
+
+Subir o repositório local para o GitHub:
+git push -u origin master (onde origin é o apelido do repositório)
+Depois que já estiver dado o comando acima, quando for subir as alterações para o GitHub:
+git push
+
+Clonar projeto remoto para a máquina:
+git clone "URI do repositório"
+
+Atualizar repositório local (máquina)
+git pull origin master
