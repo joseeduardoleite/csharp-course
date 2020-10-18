@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\bin\Debug\netcoreapp3.1\Ex.oo2.exe
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\bin\Debug\netcoreapp3.1\Ex.oo2.deps.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\bin\Debug\netcoreapp3.1\Ex.oo2.runtimeconfig.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\bin\Debug\netcoreapp3.1\Ex.oo2.runtimeconfig.dev.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\bin\Debug\netcoreapp3.1\Ex.oo2.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\bin\Debug\netcoreapp3.1\Ex.oo2.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\obj\Debug\netcoreapp3.1\Ex.oo2.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\obj\Debug\netcoreapp3.1\Ex.oo2.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\obj\Debug\netcoreapp3.1\Ex.oo2.AssemblyInfo.cs
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\obj\Debug\netcoreapp3.1\Ex.oo2.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\obj\Debug\netcoreapp3.1\Ex.oo2.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\obj\Debug\netcoreapp3.1\Ex.oo2.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo2\obj\Debug\netcoreapp3.1\Ex.oo2.genruntimeconfig.cache
