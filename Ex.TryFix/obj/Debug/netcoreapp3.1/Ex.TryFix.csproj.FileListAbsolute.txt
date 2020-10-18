@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\bin\Debug\netcoreapp3.1\Ex.TryFix.exe
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\bin\Debug\netcoreapp3.1\Ex.TryFix.deps.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\bin\Debug\netcoreapp3.1\Ex.TryFix.runtimeconfig.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\bin\Debug\netcoreapp3.1\Ex.TryFix.runtimeconfig.dev.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\bin\Debug\netcoreapp3.1\Ex.TryFix.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\bin\Debug\netcoreapp3.1\Ex.TryFix.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\obj\Debug\netcoreapp3.1\Ex.TryFix.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\obj\Debug\netcoreapp3.1\Ex.TryFix.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\obj\Debug\netcoreapp3.1\Ex.TryFix.AssemblyInfo.cs
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\obj\Debug\netcoreapp3.1\Ex.TryFix.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\obj\Debug\netcoreapp3.1\Ex.TryFix.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\obj\Debug\netcoreapp3.1\Ex.TryFix.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.TryFix\obj\Debug\netcoreapp3.1\Ex.TryFix.genruntimeconfig.cache
