@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\bin\Debug\netcoreapp3.1\Ex.oo1.exe
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\bin\Debug\netcoreapp3.1\Ex.oo1.deps.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\bin\Debug\netcoreapp3.1\Ex.oo1.runtimeconfig.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\bin\Debug\netcoreapp3.1\Ex.oo1.runtimeconfig.dev.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\bin\Debug\netcoreapp3.1\Ex.oo1.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\bin\Debug\netcoreapp3.1\Ex.oo1.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\obj\Debug\netcoreapp3.1\Ex.oo1.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\obj\Debug\netcoreapp3.1\Ex.oo1.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\obj\Debug\netcoreapp3.1\Ex.oo1.AssemblyInfo.cs
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\obj\Debug\netcoreapp3.1\Ex.oo1.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\obj\Debug\netcoreapp3.1\Ex.oo1.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\obj\Debug\netcoreapp3.1\Ex.oo1.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.oo1\obj\Debug\netcoreapp3.1\Ex.oo1.genruntimeconfig.cache
