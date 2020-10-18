@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\bin\Debug\netcoreapp3.1\Ex.MethodsAbs.exe
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\bin\Debug\netcoreapp3.1\Ex.MethodsAbs.deps.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\bin\Debug\netcoreapp3.1\Ex.MethodsAbs.runtimeconfig.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\bin\Debug\netcoreapp3.1\Ex.MethodsAbs.runtimeconfig.dev.json
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\bin\Debug\netcoreapp3.1\Ex.MethodsAbs.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\bin\Debug\netcoreapp3.1\Ex.MethodsAbs.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\obj\Debug\netcoreapp3.1\Ex.MethodsAbs.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\obj\Debug\netcoreapp3.1\Ex.MethodsAbs.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\obj\Debug\netcoreapp3.1\Ex.MethodsAbs.AssemblyInfo.cs
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\obj\Debug\netcoreapp3.1\Ex.MethodsAbs.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\obj\Debug\netcoreapp3.1\Ex.MethodsAbs.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\obj\Debug\netcoreapp3.1\Ex.MethodsAbs.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\Ex.MethodsAbs\obj\Debug\netcoreapp3.1\Ex.MethodsAbs.genruntimeconfig.cache
