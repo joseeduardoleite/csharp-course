@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\bin\Debug\netcoreapp3.1\GenericProblema2.exe
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\bin\Debug\netcoreapp3.1\GenericProblema2.deps.json
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\bin\Debug\netcoreapp3.1\GenericProblema2.runtimeconfig.json
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\bin\Debug\netcoreapp3.1\GenericProblema2.runtimeconfig.dev.json
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\bin\Debug\netcoreapp3.1\GenericProblema2.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\bin\Debug\netcoreapp3.1\GenericProblema2.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\obj\Debug\netcoreapp3.1\GenericProblema2.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\obj\Debug\netcoreapp3.1\GenericProblema2.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\obj\Debug\netcoreapp3.1\GenericProblema2.AssemblyInfo.cs
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\obj\Debug\netcoreapp3.1\GenericProblema2.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\obj\Debug\netcoreapp3.1\GenericProblema2.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\obj\Debug\netcoreapp3.1\GenericProblema2.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\GenericProblema2\obj\Debug\netcoreapp3.1\GenericProblema2.genruntimeconfig.cache
