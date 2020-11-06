@@ -1,0 +1,13 @@
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\bin\Debug\netcoreapp3.1\exHashSet.exe
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\bin\Debug\netcoreapp3.1\exHashSet.deps.json
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\bin\Debug\netcoreapp3.1\exHashSet.runtimeconfig.json
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\bin\Debug\netcoreapp3.1\exHashSet.runtimeconfig.dev.json
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\bin\Debug\netcoreapp3.1\exHashSet.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\bin\Debug\netcoreapp3.1\exHashSet.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\obj\Debug\netcoreapp3.1\exHashSet.csprojAssemblyReference.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\obj\Debug\netcoreapp3.1\exHashSet.AssemblyInfoInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\obj\Debug\netcoreapp3.1\exHashSet.AssemblyInfo.cs
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\obj\Debug\netcoreapp3.1\exHashSet.csproj.CoreCompileInputs.cache
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\obj\Debug\netcoreapp3.1\exHashSet.dll
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\obj\Debug\netcoreapp3.1\exHashSet.pdb
+C:\Users\josee\source\repos\duzer4\Curso C#\exHashSet\obj\Debug\netcoreapp3.1\exHashSet.genruntimeconfig.cache
