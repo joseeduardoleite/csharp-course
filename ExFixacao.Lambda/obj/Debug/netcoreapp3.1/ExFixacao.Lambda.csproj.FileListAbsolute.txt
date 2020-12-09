@@ -1,0 +1,13 @@
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\bin\Debug\netcoreapp3.1\ExFixacao.Lambda.exe
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\bin\Debug\netcoreapp3.1\ExFixacao.Lambda.deps.json
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\bin\Debug\netcoreapp3.1\ExFixacao.Lambda.runtimeconfig.json
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\bin\Debug\netcoreapp3.1\ExFixacao.Lambda.runtimeconfig.dev.json
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\bin\Debug\netcoreapp3.1\ExFixacao.Lambda.dll
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\bin\Debug\netcoreapp3.1\ExFixacao.Lambda.pdb
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\obj\Debug\netcoreapp3.1\ExFixacao.Lambda.csprojAssemblyReference.cache
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\obj\Debug\netcoreapp3.1\ExFixacao.Lambda.AssemblyInfoInputs.cache
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\obj\Debug\netcoreapp3.1\ExFixacao.Lambda.AssemblyInfo.cs
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\obj\Debug\netcoreapp3.1\ExFixacao.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\obj\Debug\netcoreapp3.1\ExFixacao.Lambda.dll
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\obj\Debug\netcoreapp3.1\ExFixacao.Lambda.pdb
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\ExFixacao.Lambda\obj\Debug\netcoreapp3.1\ExFixacao.Lambda.genruntimeconfig.cache
