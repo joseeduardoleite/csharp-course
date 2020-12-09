@@ -1,0 +1,13 @@
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\bin\Debug\netcoreapp3.1\Ex.Lambda1.exe
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\bin\Debug\netcoreapp3.1\Ex.Lambda1.deps.json
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\bin\Debug\netcoreapp3.1\Ex.Lambda1.runtimeconfig.json
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\bin\Debug\netcoreapp3.1\Ex.Lambda1.runtimeconfig.dev.json
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\bin\Debug\netcoreapp3.1\Ex.Lambda1.dll
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\bin\Debug\netcoreapp3.1\Ex.Lambda1.pdb
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\obj\Debug\netcoreapp3.1\Ex.Lambda1.csprojAssemblyReference.cache
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\obj\Debug\netcoreapp3.1\Ex.Lambda1.AssemblyInfoInputs.cache
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\obj\Debug\netcoreapp3.1\Ex.Lambda1.AssemblyInfo.cs
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\obj\Debug\netcoreapp3.1\Ex.Lambda1.csproj.CoreCompileInputs.cache
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\obj\Debug\netcoreapp3.1\Ex.Lambda1.dll
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\obj\Debug\netcoreapp3.1\Ex.Lambda1.pdb
+C:\Users\jocm\My Private Documents\codes\cursocsharp - Udemy\Ex.Lambda1\obj\Debug\netcoreapp3.1\Ex.Lambda1.genruntimeconfig.cache
